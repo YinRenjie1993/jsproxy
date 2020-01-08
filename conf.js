@@ -27,11 +27,7 @@ jsproxy_config({
             label: '当前站点',
             lines: {
                 // 主机:权重
-                '216.24.180.202.nip.io:8443': 10,
-                'node-aliyun-hk-1.etherdream.com:8443': 2,
-                'node-aliyun-hk-2.etherdream.com:8443': 3,
-                //新加坡
-                'node-aliyun-sg.etherdream.com:8443': 4,
+                '216.24.180.202:8443': 10,
             }
         },
         // 该节点用于加载大体积的静态资源
